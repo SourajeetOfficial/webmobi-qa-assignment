@@ -250,8 +250,8 @@ const testPassword = 'TestPassword123!';
 Both test executions recorded in high quality:
 
 ### 📹 Test Videos
-- **[test-event.cy.js.mp4](YOUR_GOOGLE_DRIVE_LINK_1)** (2 min) - Events platform testing
-- **[test-certificates.cy.js.mp4](YOUR_GOOGLE_DRIVE_LINK_2)** (6 min) - Certificates platform testing
+- **[test-event.cy.js.mp4](https://drive.google.com/file/d/1ydwsczoMCWMixlY2EXi7bIwHct6Hoevu/view?usp=drive_link)** (2 min) - Events platform testing
+- **[test-certificates.cy.js.mp4](https://drive.google.com/file/d/1WyWlaj7kRw2mXmc_zU_Pt22-N2Vzw9_9/view?usp=drive_link)** (6 min) - Certificates platform testing
 
 Videos demonstrate:
 - Complete test execution flow
@@ -261,7 +261,7 @@ Videos demonstrate:
 - Mock credentials only (safe for viewing)
 
 ### 📸 Screenshots
-- **[Test Screenshots - All 44 files](YOUR_GOOGLE_DRIVE_FOLDER_LINK)** - Failure screenshots from both test suites
+- **[Test Screenshots - All 44 files](https://drive.google.com/drive/folders/1QnnQc0j9lrp1wnjsRpo9mm_OvTW72BZ7?usp=drive_link)** - Failure screenshots from both test suites
 
 **Note**: Videos and screenshots hosted on Google Drive due to GitHub file size limitations.
 
