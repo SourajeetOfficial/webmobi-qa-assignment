@@ -55,7 +55,7 @@ Duration:        8 minutes 33 seconds
 - **Severity**: Medium
 - **Status**: API validation issue
 
-**See [BUG_REPORT.md](./BUG_REPORT.md) for detailed analysis**
+**See [BUG_REPORT.md](./bug_report.md) for detailed analysis**
 
 ---
 
